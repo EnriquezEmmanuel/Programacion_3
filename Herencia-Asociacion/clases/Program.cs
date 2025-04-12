@@ -10,7 +10,7 @@ namespace clases
     {
         static void Main(string[] args)
         {
-            // comentario para registrar cambios en github
+            // comentario 2 (doS) para registrar cambios en github
             Persona p1 = new Persona();
             p1.setNom("Emmanuel");
             p1.setEdad (38);
